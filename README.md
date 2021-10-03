@@ -50,47 +50,18 @@ The course also provide a free online compiler to train on while going through t
 
 
 ## Start Competitive programming
-- Description: a Simple Dashboard "redesign" for [the Virtual University of  Tunis](https://us.uvt.tn)
-- Language : Html + sass (any Css framework is optional).
-- Diffculty: easy 
-- Mentoring: yes 
+
 
 ## Learn HTML/CSS
-- Description: a unique preloader for our website. 
-- Language : Html + css (animating with css).
-- Diffculty: easy 
-- Mentoring: yes 
 
 ## Create a web app project using Flask  
-- Description: Certificate generator (PDF).
-- Language: any
-- Difficulty: easy 
-- Mentoring: yes 
 
 
 
 ## Learn How to Use Github
-- Description:  Showing our members list using the GitHub API  when asked in a message (!members).
-- Language: any
-- Difficulty: easy
-- Mentoring: yes
 
- Useful Links | Type |  
-|:----------------:|:----:|
-|[In Python](https://www.youtube.com/watch?v=SPTfmiYiuok&feature=emb_title&ab_channel=freeCodeCamp.org)| youtube tutorial |
-|[In JS](https://github.com/discordjs/discord.js)| github repository |
 
 ## Search for -5mn videos explaining AI / Web Dev / App Dev / Cloud Computing / IOT
-- Description : Login Button component with Tailwind. (Without Auth)
-- Language: JavaScript (React)
-- Difficulty: easy
-- Mentoring: yes
-- 
-| Useful Links | Type |  
-|:----------------:|:----:|
-|[Install tailwind](https://tailwindcss.com/docs/guides/create-react-app)| docs |
-|[tailwind project](https://www.youtube.com/watch?v=hRFbqdJKRvQ&ab_channel=CodingTheSmartWay.com)| youtube tutorial |
-
 
 You can stay up to date by joining our [facebook group.](https://www.facebook.com/groups/githubscommunity)
 Happy Coding. 
