@@ -2,7 +2,7 @@
 ![Alt text](Banner2.png?raw=true "Banner")
 
 
-## Guide Overview : 
+# Guide Overview : 
 This guide is proposed for students in software engineering-related fields who just started their journey.
 If you are lost and don't even know where to begin, what infromatics field you'd like to specialize in, this guide is for you !
 It aims to make you a better problem solver and gives you an inside-out look of our vast field.
@@ -35,7 +35,7 @@ So just apply for it, move on to the next step and it'll be ready when you're in
 |:----------------:|:----:|
 |[Github Student Pack](https://education.github.com/pack)| Free Access to developer Tools |
 |[How to get it](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/apply-for-a-student-developer-pack)|Step-by-step guide to get the student pack|
-- 
+
 ## Watch CS50 Course
 CS50 is an on-campus and online introductory course on computer science taught at Harvard University and Yale University.<br>
 You can skip the first part about scratch and dive into C language. It is one of the best courses to teach you about data structures and how our machines think.<br>
@@ -67,9 +67,9 @@ Also Master the indian accent.
 #### Pro tips:<br>
 -In order to view medium articles for free, just delete the website's cookies. You're welcome.<br>
 -You can get most of the Coursera paid courses by applying for financial aid. Also look for free access programs online (usually universities provide one).<br>
--You can get most of the udemy courses for free by searching for 100% discount coupons:" {Name Of The Course} Udemy 100" 
--Enter Discord groups where people Share Drives Full of Free courses.
--You could download most of the paid courses from FreeTutorials.us
+-You can get most of the udemy courses for free by searching for 100% discount coupons:" {Name Of The Course} Udemy 100"<br> 
+-Enter Discord groups where people Share Drives Full of Free courses.<br>
+-You could download most of the paid courses from FreeTutorials.us<br>
 
 ## Start Competitive Programming
 Competitive programming teaches you how to be a better problem solver, you'll learn about complexity, data structures and algorithms.
@@ -96,7 +96,7 @@ Also I'd advise you to learn by testing. Platforms such as GeeksforGeeks and W3S
 It's time to create projects! Try to put your knowledge into practise through coding a simple website ( blog page, protfolio website ..Etc)
 
 ## Learn How to Automate Tasks with Python and/or javascript
-I'd recommend Learning How to automate stuff with Python. There's a great book called Automate The Boring Stuff with Python That I really recommend.
+There's a great book called Automate The Boring Stuff with Python That I'd really recommend.
 You could create a web scraper and scrape data. May I recommend Scrapy, or BeatifulSoup & Selenium.
 
 | Useful Links | description |  
@@ -123,7 +123,7 @@ Create Repositories, put your simple website and scraping tool that you created.
 |[GitHub Learning Lab](https://lab.github.com/)||
 
 ## Next Step
-You simply need to start. instead of watching courses getting certifications, Learn by actually doing. Project based Learning is the best way to get the hold of a concept.
+You simply need to start. instead of watching courses in order to get the certifications, Learn by actually doing. Project based Learning is the best way to get the hold of a concept.
 when you start a project you'll find out that you didn't get the hang of a concept that you thought you have. so test yourself practice more !
 
 You can stay up to date by joining our [facebook group.](https://www.facebook.com/groups/githubscommunity)
