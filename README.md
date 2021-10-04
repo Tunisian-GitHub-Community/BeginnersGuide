@@ -47,7 +47,15 @@ The course also provide a free online compiler to train on while going through t
 |[CS50 IDE](https://ide.cs50.io/)|an online IDE to practice while watching the course|
 
 ## Learn The Art Of Googling
+Google Search is a powerful tool, yet you're not using its full potential.
+Know where to search for information, and how to search for it. understand the notion of forums,discussions and subreddits.<br>
+Searching the web is an art, I hope this article helps you to discover some of the tips and tricks that might make your life much easier.<br>
+quick tip:<br>
+In order to view medium articles for free, just delete the website's cookies. You're welcome.
 
+| Useful Links | description |  
+|:----------------:|:----:|
+|[11 tricks to master the Art of Googling](https://betterprogramming.pub/11-tricks-to-master-the-art-of-googling-as-a-software-developer-2e00b7568b7d)| Medium article on how to Google |
 
 ## Start Competitive programming
 
