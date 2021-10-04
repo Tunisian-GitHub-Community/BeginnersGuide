@@ -103,9 +103,9 @@ You could create a web scraper and scrape data. May I recommend Scrapy, or Beati
 |:----------------:|:----:|
 |[Automate The Boring Stuff With Python](https://automatetheboringstuff.com/)|Free PDF book with Python Code blocks to test|
 #### pro tip:
--you could get any book & research article, pdf version using:
-[Sci-Hub](sci-hub.se)<br>
-[pdf](https://www.pdfdrive.com/)<br>
+You could get any book & research article, pdf version using:
+-[Sci-Hub](sci-hub.se)<br>
+-[pdfDrive](https://www.pdfdrive.com/)<br>
 
 ## Linux
 Learn the notion of packages and open source.
