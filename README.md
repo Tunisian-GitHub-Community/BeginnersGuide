@@ -24,9 +24,7 @@ Contributions are more than welcome, if you have additional information that mig
 - [Learn How to Automate Tasks with Python and/or javascript](#Learn-How-to-Automate-Tasks-with-Python-AndOr-javascript)
 - [Linux](#Linux)
 - [Learn How to Use Github](#Learn-How-to-Use-Github)
-
-
-- [Search for -5mn videos explaining AI / Web Dev / App Dev / Cloud Computing / IOT](#Search-for-5mn-videos-explaining-AI-/-Web-Dev-/-App Dev-/-Cloud-Computing-/-IOT)
+- [Next Step](#Next-Step)
 
 ##
 ## Apply for Github Student Pack 
@@ -124,10 +122,9 @@ Create Repositories, put your simple website and scraping tool that you created.
 |:----------------:|:----:|
 |[GitHub Learning Lab](https://lab.github.com/)||
 
-## How do I know which domain suits me the best?
+## Next Step
 You simply need to start. instead of watching courses getting certifications, Learn by actually doing. Project based Learning is the best way to get the hold of a concept.
 when you start a project you'll find out that you didn't get the hang of a concept that you thought you have. so test yourself practice more !
-
 
 You can stay up to date by joining our [facebook group.](https://www.facebook.com/groups/githubscommunity)
 Happy Coding.<br>
