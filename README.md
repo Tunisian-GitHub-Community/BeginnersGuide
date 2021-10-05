@@ -16,14 +16,14 @@ Contributions are more than welcome, if you have additional information that mig
 # Table of Contents
 - [ Apply for Github Student Pack ](#Apply-for-Github-Student-Pack )
 - [Watch CS50 course](#Watch-CS50-course)
-- [Learn Object Oriented Programming](#Learn-Object-Oriented-Programming)
 - [Learn The Art of Googling](#Learn-The-Art-of-Googling)
-- [Start Competitive programming](#Start-Competitive-programming)
 - [Learn HTML/CSS](#Learn-HTML/CSS)
 - [Create your first website from scratch](#Create-your-first-website-from-scratch)
-- [Learn How to Automate Tasks with Python and/or javascript](#Learn-How-to-Automate-Tasks-with-Python-AndOr-javascript)
-- [Linux](#Linux)
 - [Learn How to Use Github](#Learn-How-to-Use-Github)
+- [Linux](#Linux)
+- [Start Competitive programming](#Start-Competitive-programming)
+- [Learn How to Automate Tasks with Python and/or javascript](#Learn-How-to-Automate-Tasks-with-Python-AndOr-javascript)
+- [Learn Object Oriented Programming](#Learn-Object-Oriented-Programming)
 - [Next Step](#Next-Step)
 
 ##
