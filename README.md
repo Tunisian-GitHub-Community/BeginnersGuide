@@ -91,7 +91,9 @@ Also I'd advise you to learn by testing. Platforms such as GeeksforGeeks and W3S
 | Useful Links | description |  
 |:----------------:|:----:|
 |[GeeksforGeeks HTML Course](https://www.geeksforgeeks.org/html-basics/)|free HTML Course with online compiler to test.|
-|[W3Schools HTML Course](https://www.w3schools.com/html/html_basic.asp)|free HTML Course with online compiler to test.|
+|[W3Schools HTML Course](https://www.w3schools.com/html/html_basic.asp)|free HTML Course with online compiler to test.|  
+
+After learning HTML and CSS and before jumping into JavaScript try to use Bootstrap, it's a free and open-source CSS framework that will help you style your project in no time.
 ## Create your first website from scratch
 It's time to create projects! Try to put your knowledge into practise through coding a simple website ( blog page, protfolio website ..Etc)
 
@@ -115,11 +117,12 @@ Also installing programming softwares on linux is much easier than windows, and 
 |:----------------:|:----:|
 |[Top 10 Reasons Why You Should Use Linux](https://mindmajix.com/reasons-why-you-should-learn-linux)|make your life easier with linux|
 
-## Learn How to Use Github
+## Learn How to Use Git/Github
 Learn the concept of version control.
 Create Repositories, put your simple website and scraping tool that you created.
 | Useful Links | description |  
 |:----------------:|:----:|
+|[git - the simple guide](https://rogerdudler.github.io/git-guide/)|just a simple guide for getting started with git. no deep shit ;)|
 |[GitHub Learning Lab](https://lab.github.com/)||
 
 ## Next Step
