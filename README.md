@@ -17,6 +17,7 @@ Contributions are more than welcome, if you have additional information that mig
 - [ Apply for Github Student Pack ](#Apply-for-Github-Student-Pack )
 - [Watch CS50 course](#Watch-CS50-course)
 - [Learn The Art of Googling](#Learn-The-Art-of-Googling)
+- [Learn How to Type Fast](#Learn-How-to-Type-Fast)
 - [Learn HTML/CSS](#Learn-HTML/CSS)
 - [Create your first website from scratch](#Create-your-first-website-from-scratch)
 - [Learn How to Use Github](#Learn-How-to-Use-Github)
@@ -82,6 +83,15 @@ Big Thanks for his Great work !!
 |[Coding BeTounsi](https://www.youtube.com/c/CodingBeTounsi)|Educative Tunisian Youtube Channel for Competitive Programming|
 |[Junior Training Sheet V7.0](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=84654839)| Training Sheet to track your progress |
 |[Starting Competitive Programming - Steps and Mistakes - YouTube](https://www.youtube.com/watch?v=bVKHRtafgPc)| Starting Competitive Programming - Steps and Mistakes - YouTube |
+
+## Learn How to Type Fast  
+Typing fast on your keyboard is not a myth or something you only see in movies. Actually you can learn how to do that in 30 days or less (1 hour practice every day). Trust me your neck pain will be gone and you will use your computer for longer period of time. 
+Here's some useful links that will help you achieve that goal:  
+
+| Useful Links | description |  
+|:----------------:|:----:|
+|[Keybr](https://www.keybr.com)|This web application will help you to learn touch typing, which means typing through muscle memory without using your eyesight to find the keys on the keyboard. It can improve your typing speed and accuracy dramatically.|
+|[10 Fast Fingers](https://10fastfingers.com)|Typing Test, Competitions, Practice & Typing Games. Typing Competition Who can type faster? Top 1000 Challenge yourself!|
 
 ## Learn HTML/CSS
 This will come in handy in future projects. you'll have to learn HTML sooner or later.
